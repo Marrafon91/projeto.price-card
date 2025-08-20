@@ -4,12 +4,19 @@ Este é um projeto em HTML e CSS criado por mim — **Marrafon91** — como um e
 
 ---
 
+##  🔗 Demonstração
+
+Você pode visualizar o projeto publicado através do GitHub Pages neste link:  
+👉 [Acessar o Price-Card](https://marrafon91.github.io/projeto.price-card/)
+
+---
+
 ##  Estrutura do Repositório
 
 - **index.html** — Página principal que exibe o card de preços (price card).
 - **estilo.css** — Folha de estilo que define o visual do card.
 - **.gitattributes** — Configurações de controle de versão para Git.
-- **LICENSE** — Licença MIT garantindo liberdade de uso e modificação :contentReference[oaicite:0]{index=0}.
+- **LICENSE** — Licença MIT garantindo liberdade de uso e modificação.
 
 ---
 
